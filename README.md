@@ -1,4 +1,4 @@
-# Prof-README-Generato r-Homework-9
+# Prof-README-Generator-Homework-9
 
 Providing a detailed, easy to read and understand README file to the GitHub Repository helps others understand what your purpose is and what you want to accommplish. 
 The idea behind making a README generator is to give the user a fast, easy way to accommplish this by using a command-line file to generate one.  By putting in the basic questions and headers a user can work without forgetting any steps along the way.  Doing this project showed me the value of planning out and creating a README file.
